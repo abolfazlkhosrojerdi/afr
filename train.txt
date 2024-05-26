@@ -1,0 +1,7 @@
+Things need to train until become master:
+    python 'request' module
+    SQL and mysql
+    OOP in python
+    Vim editor
+    Advanced python
+
